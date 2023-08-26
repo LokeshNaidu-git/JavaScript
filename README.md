@@ -1,2 +1,2 @@
 # JavaScript
-This is repository for java script projects
+This is repository for java script practice projects.
